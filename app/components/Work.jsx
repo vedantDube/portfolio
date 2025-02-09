@@ -30,7 +30,8 @@ const Work = ({ isDarkMode }) => {
         transition={{ duration: 1, delay: 0.5 }}
         className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo"
       >
-        lorem ipsum ihsahsfiohiosfhiofashoiasfhoiasfhiosfhiofsahio
+        I have worked on a variety of projects including web design, game
+        development.
       </motion.p>
 
       <motion.div

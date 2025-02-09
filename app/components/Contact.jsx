@@ -59,7 +59,8 @@ const Contact = ({ isDarkMode }) => {
         transition={{ duration: 0.7, delay: 0.5 }}
         className="text-center max-w-2xl mx-auto mt-5 mb-12 font-serif"
       >
-        lorem ipsum ihsahsfiohiosfhiofashoiasfhoiasfhiosfhiofsahio
+        I am always open to discussing product design work or partnership
+        opportunities.
       </motion.p>
       <motion.form
         initial={{ opacity: 0 }}

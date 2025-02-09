@@ -87,16 +87,16 @@ export const workData = [
     description: "Mobile App",
     bgImage: "/work-2.png",
   },
-  {
-    title: "Photography site",
-    description: "Web Design",
-    bgImage: "/work-3.png",
-  },
-  {
-    title: "UI/UX designing",
-    description: "UI/UX Design",
-    bgImage: "/work-4.png",
-  },
+  // {
+  //   title: "Photography site",
+  //   description: "Web Design",
+  //   bgImage: "/work-3.png",
+  // },
+  // // {
+  // //   title: "UI/UX designing",
+  // //   description: "UI/UX Design",
+  // //   bgImage: "/work-4.png",
+  // // },
 ];
 
 export const serviceData = [
@@ -108,24 +108,23 @@ export const serviceData = [
   },
   {
     icon: assets.mobile_icon,
-    title: "Mobile app",
+    title: "Game Dev",
     description:
-      "Mobile app development involves creating software for mobile devices...",
-    link: "",
+      "Game development is the process of creating video games and games...",
   },
-  {
-    icon: assets.ui_icon,
-    title: "UI/UX design",
-    description:
-      "UI/UX design focuses on creating a seamless user experience...",
-    link: "",
-  },
-  {
-    icon: assets.graphics_icon,
-    title: "Graphics design",
-    description: "Creative design solutions to enhance visual communication...",
-    link: "",
-  },
+  // {
+  //   icon: assets.ui_icon,
+  //   title: "UI/UX design",
+  //   description:
+  //     "UI/UX design focuses on creating a seamless user experience...",
+  //   link: "",
+  // },
+  // {
+  //   icon: assets.graphics_icon,
+  //   title: "Graphics design",
+  //   description: "Creative design solutions to enhance visual communication...",
+  //   link: "",
+  // },
 ];
 
 export const infoList = [
@@ -133,13 +132,13 @@ export const infoList = [
     icon: assets.code_icon,
     iconDark: assets.code_icon_dark,
     title: "Languages",
-    description: "HTML, CSS, JavaScript React Js, Next Js",
+    description: "HTML, CSS, JavaScript React Js, Next Js, Unreal Engine,C++",
   },
   {
     icon: assets.edu_icon,
     iconDark: assets.edu_icon_dark,
     title: "Education",
-    description: "B.Tech in Computer Science",
+    description: "B.Tech in Electronics and Communication",
   },
   {
     icon: assets.project_icon,

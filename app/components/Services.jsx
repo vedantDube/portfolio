@@ -35,7 +35,9 @@ const Services = ({ isDarkMode }) => {
         transition={{ duration: 0.7, delay: 0.5 }}
         className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo"
       >
-        lorem ipsum ihsahsfiohiosfhiofashoiasfhoiasfhiosfhiofsahio
+        I offer a range of services including web design, game development. I
+        have experience in building websites using React, Next.js, and Tailwind
+        CSS.
       </motion.p>
       <motion.div
         initial={{ opacity: 0 }}

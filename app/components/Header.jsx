@@ -29,7 +29,7 @@ const Header = ({ isDarkMode }) => {
         className="text-3xl sm:text-6xl lg:text-[66px] font-Ovo"
       >
         {" "}
-        phekam pheki
+        Frontend web developer{" "}
       </motion.h1>
       <motion.p
         initial={{ opacity: 0 }}
@@ -37,9 +37,9 @@ const Header = ({ isDarkMode }) => {
         transition={{ duration: 0.6, delay: 0.7 }}
         className="max-w-2xl mx-auto font-Ovo"
       >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-        voluptates, quia, quod, quos doloremque quae doloribus nemo quibusdam
-        voluptas autem quid
+        I am a frontend web developer with a passion for creating beautiful and
+        user-friendly websites. I have experience in building websites using
+        React, Next.js, and Tailwind CSS.
       </motion.p>
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
         <motion.a
